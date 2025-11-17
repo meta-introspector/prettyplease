@@ -19,4 +19,4 @@ path = "fuzz_targets/round_trip.rs"
 test = false
 doc = false
 
-[workspace]
+#[workspace]
